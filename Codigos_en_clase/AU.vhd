@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------
 -- @KARY
--- Proyecto: Sumador-Restador Version 1.0  
+-- Proyecto: Sumador-Restador de 4 bits con acarreo en cascada Version 1.0  
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
