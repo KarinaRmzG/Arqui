@@ -1,4 +1,4 @@
-### Arquitectura de Computadoras
+# Arquitectura de Computadoras
 
 - Curso impartido por el profesor Victor Hugo García Ortega en la ESCOM
 
