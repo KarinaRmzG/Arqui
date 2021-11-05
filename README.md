@@ -1,6 +1,6 @@
-### Arquitectura de Computadoras
+# Arquitectura de Computadoras
 
-- Curso tomado con el profesor Victor Hugo García Ortega
+- Curso impartido por el profesor Victor Hugo García Ortega en la ESCOM
 
 ### Prácticas:
 - Sumador/Restador con acarreo en cascada
