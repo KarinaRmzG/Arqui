@@ -1,3 +1,11 @@
+----------------------------------------------------------------------------------
+-- @Kary
+-- Proyecto: Memoria de Programa (ROM)
+-- Memoria de Programa = 256 x 15
+-- Bus de direcciones = 8 bits 
+-- Bus de datos = 15 bits 
+----------------------------------------------------------------------------------
+
 library IEEE;
 use IEEE.Std_logic_1164.all;
 use IEEE.Numeric_Std.all;
