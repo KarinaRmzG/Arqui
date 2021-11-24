@@ -7,3 +7,6 @@
 - Sumador/Restador con acarreo anticipado
 - ALU
 - Memoria de Programa
+- Memoria de Datos
+- Archivo de Registros
+- Contador de Programa
