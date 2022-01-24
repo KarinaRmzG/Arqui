@@ -1,4 +1,0 @@
-Breakpoint File Version 1.0
-52,true,"C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.srcs/sources_1/new/ALU.vhd"
-54,true,"C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.srcs/sources_1/new/ALU.vhd"
-56,true,"C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.srcs/sources_1/new/ALU.vhd"
