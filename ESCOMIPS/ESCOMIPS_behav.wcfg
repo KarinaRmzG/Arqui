@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="ESCOMIPS_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="ESCOMIPS" />
+            <top_module name="mi_paquete" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,070.001 ns"></ZoomEndTime>
+      <Cursor1Time time="150.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="108"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="29" />
+   <wvobject fp_name="/ESCOMIPS/CLR" type="logic">
+      <obj_property name="ElementShortName">CLR</obj_property>
+      <obj_property name="ObjectShortName">CLR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/A" type="array">
+      <obj_property name="ElementShortName">A[7:0]</obj_property>
+      <obj_property name="ObjectShortName">A[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/Di" type="array">
+      <obj_property name="ElementShortName">Di[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Di[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/AC" type="array">
+      <obj_property name="ElementShortName">AC[7:0]</obj_property>
+      <obj_property name="ObjectShortName">AC[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/MR1" type="array">
+      <obj_property name="ElementShortName">MR1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">MR1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/MWD" type="array">
+      <obj_property name="ElementShortName">MWD[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MWD[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/MOP" type="array">
+      <obj_property name="ElementShortName">MOP[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MOP[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/MOP2" type="array">
+      <obj_property name="ElementShortName">MOP2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MOP2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/MR" type="array">
+      <obj_property name="ElementShortName">MR[7:0]</obj_property>
+      <obj_property name="ObjectShortName">MR[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/RD1" type="array">
+      <obj_property name="ElementShortName">RD1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RD1[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/RD2" type="array">
+      <obj_property name="ElementShortName">RD2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RD2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/ES" type="array">
+      <obj_property name="ElementShortName">ES[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ES[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/DO" type="array">
+      <obj_property name="ElementShortName">DO[7:0]</obj_property>
+      <obj_property name="ObjectShortName">DO[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/I" type="array">
+      <obj_property name="ElementShortName">I[14:0]</obj_property>
+      <obj_property name="ObjectShortName">I[14:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+      <obj_property name="CustomSignalColor">#FF00FF</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/RALU" type="array">
+      <obj_property name="ElementShortName">RALU[7:0]</obj_property>
+      <obj_property name="ObjectShortName">RALU[7:0]</obj_property>
+      <obj_property name="Radix">SIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/WPC" type="logic">
+      <obj_property name="ElementShortName">WPC</obj_property>
+      <obj_property name="ObjectShortName">WPC</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/SR1" type="logic">
+      <obj_property name="ElementShortName">SR1</obj_property>
+      <obj_property name="ObjectShortName">SR1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/SWD" type="logic">
+      <obj_property name="ElementShortName">SWD</obj_property>
+      <obj_property name="ObjectShortName">SWD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/WR" type="logic">
+      <obj_property name="ElementShortName">WR</obj_property>
+      <obj_property name="ObjectShortName">WR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/SOP" type="logic">
+      <obj_property name="ElementShortName">SOP</obj_property>
+      <obj_property name="ObjectShortName">SOP</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/SOP2" type="logic">
+      <obj_property name="ElementShortName">SOP2</obj_property>
+      <obj_property name="ObjectShortName">SOP2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/WD" type="logic">
+      <obj_property name="ElementShortName">WD</obj_property>
+      <obj_property name="ObjectShortName">WD</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/SR" type="logic">
+      <obj_property name="ElementShortName">SR</obj_property>
+      <obj_property name="ObjectShortName">SR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/ALUOP" type="array">
+      <obj_property name="ElementShortName">ALUOP[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUOP[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/Z" type="logic">
+      <obj_property name="ElementShortName">Z</obj_property>
+      <obj_property name="ObjectShortName">Z</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/C" type="logic">
+      <obj_property name="ElementShortName">C</obj_property>
+      <obj_property name="ObjectShortName">C</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/N" type="logic">
+      <obj_property name="ElementShortName">N</obj_property>
+      <obj_property name="ObjectShortName">N</obj_property>
+   </wvobject>
+   <wvobject fp_name="/ESCOMIPS/OV" type="logic">
+      <obj_property name="ElementShortName">OV</obj_property>
+      <obj_property name="ObjectShortName">OV</obj_property>
+   </wvobject>
+</wave_config>
