@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2021.1.1 (64-bit)
+# SW Build 3286242 on Wed Jul 28 13:10:47 MDT 2021
+# IP Build 3279568 on Wed Jul 28 16:48:48 MDT 2021
+# Start of session at: Tue Dec 21 10:03:07 2021
+# Process ID: 1340
+# Current directory: C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.sim/sim_1/behav/xsim/xsim.dir/ESCOMIPS_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/Karina/Desktop/Octavo semestre/Arqui/ESCOMIPS/ESCOMIPS.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/Karina/Desktop/Octavo -notrace
